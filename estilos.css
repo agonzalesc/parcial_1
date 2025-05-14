@@ -1,3 +1,8 @@
 .mi-nav{
     background-color: pink !important;
 }
+
+.boton{
+    background-color: pink;
+    border-color: pink;
+}
